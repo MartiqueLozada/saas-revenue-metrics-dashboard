@@ -21,6 +21,12 @@ The dashboard was built using a realistic synthetic dataset to showcase data mod
 
 ---
 
+## 🔗 Live Dashboard Link
+
+[View the SaaS Revenue & User Metrics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmVmMTZhZjctZmM0OS00MWJlLWJhYWItMjA0MTlmZWY0Mzg4IiwidCI6IjQ2NWU0MTVjLWY2NWUtNDg5MC05NTYxLTlmNDIzOTJhMzQwOCIsImMiOjN9)
+
+---
+
 ## 🗂 Files Included
 
 | File | Description |
